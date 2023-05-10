@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on c# coding projects.
-- 🌱 I’m currently learning more c#
-- 🤔 I’m looking for help with c#
-- 💬 Ask me about c#
-- 📫 How to reach me https://git.5servers.us/5gi follow me here.
-- 😄 Pronouns: im a dude. and pronouns suck
-- ⚡ Fun fact: im stupid
+- I’m currently working on Java coding projects.
+- Ask me about Java
+- Pronouns: stop using fucking pronouns, 2 genders only, male and female, I am a male, if you say they/them in my physical presence I will TKO your ass.
+- Fun fact: im correct
